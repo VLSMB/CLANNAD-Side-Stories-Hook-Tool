@@ -1,0 +1,36 @@
+#include <resource.h>
+#define Episode01 1001
+#define Episode02 1002
+#define Episode03 1003
+#define Episode04 1004
+#define Episode05 1005
+#define Episode06 1006
+#define Episode07 1007
+#define Episode08 1008
+#define Episode09 1009
+#define Episode10 1010
+#define Episode11 1011
+#define Episode12 1012
+#define Episode13 1013
+#define Episode14 1014
+#define Episode15 1015
+#define Episode16 1016
+#define MENUTEXT 1017
+
+Episode01 RCDATA "Episode01.bin"
+Episode02 RCDATA "Episode02.bin"
+Episode03 RCDATA "Episode03.bin"
+Episode04 RCDATA "Episode04.bin"
+Episode05 RCDATA "Episode05.bin"
+Episode06 RCDATA "Episode06.bin"
+Episode07 RCDATA "Episode07.bin"
+Episode08 RCDATA "Episode08.bin"
+Episode09 RCDATA "Episode09.bin"
+Episode10 RCDATA "Episode10.bin"
+Episode11 RCDATA "Episode11.bin"
+Episode12 RCDATA "Episode12.bin"
+Episode13 RCDATA "Episode13.bin"
+Episode14 RCDATA "Episode14.bin"
+Episode15 RCDATA "Episode15.bin"
+Episode16 RCDATA "Episode16.bin"
+MENUTEXT RCDATA "MenuText.bin"
